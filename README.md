@@ -5,3 +5,4 @@ stuff
 foo
 foo
 foo
+foo
